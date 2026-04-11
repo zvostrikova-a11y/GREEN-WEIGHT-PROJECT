@@ -1,5 +1,5 @@
 # GREEN-WEIGHT-PROJECT
-**Компания** <font size="10">
+**Компания** <font size="20">
 
 Салат-бар
 ...
