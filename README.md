@@ -1,5 +1,5 @@
 # GREEN-WEIGHT-PROJECT
-Идея компании
+Компания
 
 ...
 
